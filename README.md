@@ -16,6 +16,7 @@ Nº digitos: Para indicar si la numeracion debe aparecer como:
 
 Nº Inicio: En que número empieza la enumeración.
 
+--prueba--
 
 Seleccionando un archivo o varios en el cuadro izquierdo se pueden mover hacia arribao abajo en la lista para evitar situaciones como:
 
