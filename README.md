@@ -20,9 +20,9 @@ Nº Inicio: En que número empieza la enumeración.
 Seleccionando un archivo en el recuadro izquierdo se puede mover hacia arriba
 o abajo en la lista para evitar situaciones como:
 
-PresProcesoP_Tema_1.pdf -> Tema - 01.pdf
-Requisitos_Tema_3.pdf 	-> Tema - 02.pdf
-UML_Tema_2.pdf		-> Tema - 03.pdf
+1. PresProcesoP_Tema_1.pdf      -> Tema - 01.pdf
+2. Requisitos_Tema_3.pdf 	-> Tema - 02.pdf
+3. UML_Tema_2.pdf		-> Tema - 03.pdf
 
 También se puede eliminar un archivo para que no se le cambie el nombre.
 
