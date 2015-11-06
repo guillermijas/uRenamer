@@ -72,11 +72,12 @@
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-  </PropertyGroup>
+  <PropertyGroup />
   <PropertyGroup>
     <ApplicationIcon>Logo_ur.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -129,10 +130,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="obj\Release\img\f abajo.png" />
-    <None Include="obj\Release\img\f arriba.png" />
-    <None Include="obj\Release\img\folder.png" />
-    <None Include="obj\Release\img\x.png" />
+    <None Include="img\f abajo.png" />
+    <None Include="img\f arriba.png" />
+    <None Include="img\folder.png" />
+    <None Include="img\x.png" />
     <Content Include="Logo_ur.ico" />
   </ItemGroup>
   <ItemGroup>
@@ -146,6 +147,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
