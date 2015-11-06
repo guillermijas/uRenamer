@@ -28,7 +28,7 @@ También se puede eliminar un archivo para que no se le cambie el nombre.
 
 
 
-EJEMPLOS DE USO:
+## EJEMPLOS DE USO:
 
 Carpeta: D:\Videos\VGHS T1
 Nuevo Nombre: 
@@ -62,13 +62,13 @@ Nuevo Nombre:
 [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4
 [A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4
 
-VGHS T1 - 01.mp4
-VGHS T1 - 02.mp4
-VGHS T1 - 03.mp4
-VGHS T1 - 04.mp4
-VGHS T1 - 05.mp4
-VGHS T1 - 06.mp4
-[DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4
+- VGHS T1 - 01.mp4
+- VGHS T1 - 02.mp4
+- VGHS T1 - 03.mp4
+- VGHS T1 - 04.mp4
+- VGHS T1 - 05.mp4
+- VGHS T1 - 06.mp4
+- [DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4
 
 
 
@@ -83,12 +83,12 @@ Nuevo Nombre:
 [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4 v
 [A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4
 
-VGHS T1 - 01.mp4 (antes 2)
-VGHS T1 - 02.mp4 (antes 1)
-VGHS T1 - 03.mp4
-VGHS T1 - 04.mp4
-VGHS T1 - 05.mp4
-VGHS T1 - 06.mp4 (antes 7)
-VGHS T1 - 07.mp4 (antes 6)
+- VGHS T1 - 01.mp4 (antes 2)
+- VGHS T1 - 02.mp4 (antes 1)
+- VGHS T1 - 03.mp4
+- VGHS T1 - 04.mp4
+- VGHS T1 - 05.mp4
+- VGHS T1 - 06.mp4 (antes 7)
+- VGHS T1 - 07.mp4 (antes 6)
 
 
