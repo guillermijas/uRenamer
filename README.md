@@ -79,11 +79,11 @@ Carpeta: D:\Videos\VGHS T1
 Nuevo Nombre: 
 
 - [D244578A]Video Game High School (VGHS) - Ep. 1[720p].mp4
-- [C345E76F]Video Game High School (VGHS) - Ep. 2[720p].mp4 ^
+- [C345E76F]Video Game High School (VGHS) - Ep. 2[720p].mp4 ![borrar](https://github.com/guillermijas/uRenamer/blob/master/uRenamer/img/f%20arriba.png "^")
 - [345A6E73]Video Game High School (VGHS) - Ep. 3[720p].mp4
 - [DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4
 - [1267AC32]Video Game High School (VGHS) - Ep. 5[720p].mp4
-- [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4 v
+- [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4 ![borrar](https://github.com/guillermijas/uRenamer/blob/master/uRenamer/img/f%20abajo.png "v")
 - [A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4
 
 /----------------------------------------------------------/
