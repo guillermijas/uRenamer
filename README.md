@@ -23,7 +23,6 @@ Seleccionando un archivo o varios en el recuadro izquierdo se pueden mover hacia
 También se puede eliminar un archivo o más de la lista para que no se les cambie el nombre.
 
 
-
 ## EJEMPLOS DE USO:
 
 Carpeta: D:\Videos\VGHS T1
@@ -37,9 +36,7 @@ Nuevo Nombre:
 - [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4
 - [A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4
 
-
-***
-
+/----------------------------------------------------------/
 
 - VGHS T1 - 01.mp4
 - VGHS T1 - 02.mp4
@@ -49,6 +46,8 @@ Nuevo Nombre:
 - VGHS T1 - 06.mp4
 - VGHS T1 - 07.mp4
 
+
+***
 
 
 Carpeta: D:\Videos\VGHS T1
@@ -62,9 +61,7 @@ Nuevo Nombre:
 - [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4
 - [A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4
 
-
-***
-
+/----------------------------------------------------------/
 
 - VGHS T1 - 01.mp4
 - VGHS T1 - 02.mp4
@@ -74,6 +71,8 @@ Nuevo Nombre:
 - VGHS T1 - 06.mp4
 - [DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4
 
+
+***
 
 
 Carpeta: D:\Videos\VGHS T1
@@ -87,9 +86,7 @@ Nuevo Nombre:
 - [34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4 v
 - [A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4
 
-
-***
-
+/----------------------------------------------------------/
 
 - VGHS T1 - 01.mp4 (antes 2)
 - VGHS T1 - 02.mp4 (antes 1)
