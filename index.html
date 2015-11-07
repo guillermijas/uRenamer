@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>uRenamer by guillermijas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">uRenamer</h1>
+      <h2 class="project-tagline">Rename multiple files within a folder</h2>
+      <a href="https://github.com/guillermijas/uRenamer" class="btn">View on GitHub</a>
+      <a href="https://github.com/guillermijas/uRenamer/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/guillermijas/uRenamer/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="urenamer" class="anchor" href="#urenamer" aria-hidden="true"><span class="octicon octicon-link"></span></a>uRenamer</h1>
+
+<p>üRenamer es un programa para renombrar archivos por lotes. </p>
+
+<p><strong>Carpeta</strong>: Aquí se especifica el directorio que contiene los archivos a renombrar. Debe existir en el equipo. Se puede escribir o seleccionar pulsando en el icono de al lado.</p>
+
+<p><strong>Nuevo Nombre</strong>: El nombre de los archivos después de renombrar. Por defecto (dejado en blanco) es el nombre de la carpeta. </p>
+
+<p><strong>Nº digitos</strong>: Para indicar si la numeracion debe aparecer como:
+    Nombre - 1.ext
+    Nombre - 01.ext
+    Nombre - 001.ext</p>
+
+<p><strong>Nº Inicio</strong>: En que número empieza la enumeración.</p>
+
+<p>Seleccionando un archivo o varios en el recuadro izquierdo se pueden mover hacia arriba o abajo en la lista para evitar situaciones como:</p>
+
+<ol>
+<li>PresProcesoP_Tema_1.pdf -&gt; Tema - 01.pdf</li>
+<li>Requisitos_Tema_3.pdf ---&gt; Tema - 02.pdf</li>
+<li>UML_Tema_2.pdf ----------&gt; Tema - 03.pdf</li>
+</ol>
+
+<p>También se puede eliminar un archivo o más de la lista para que no se les cambie el nombre.</p>
+
+<h2>
+<a id="ejemplos-de-uso" class="anchor" href="#ejemplos-de-uso" aria-hidden="true"><span class="octicon octicon-link"></span></a>EJEMPLOS DE USO:</h2>
+
+<p>Carpeta: D:\Videos\VGHS T1
+Nuevo Nombre: </p>
+
+<ul>
+<li>[D244578A]Video Game High School (VGHS) - Ep. 1[720p].mp4</li>
+<li>[C345E76F]Video Game High School (VGHS) - Ep. 2[720p].mp4</li>
+<li>[345A6E73]Video Game High School (VGHS) - Ep. 3[720p].mp4</li>
+<li>[DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4</li>
+<li>[1267AC32]Video Game High School (VGHS) - Ep. 5[720p].mp4</li>
+<li>[34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4</li>
+<li>[A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4</li>
+</ul>
+
+<p>/----------------------------------------------------------/</p>
+
+<ul>
+<li>VGHS T1 - 01.mp4</li>
+<li>VGHS T1 - 02.mp4</li>
+<li>VGHS T1 - 03.mp4</li>
+<li>VGHS T1 - 04.mp4</li>
+<li>VGHS T1 - 05.mp4</li>
+<li>VGHS T1 - 06.mp4</li>
+<li>VGHS T1 - 07.mp4</li>
+</ul>
+
+<hr>
+
+<p>Carpeta: D:\Videos\VGHS T1
+Nuevo Nombre: </p>
+
+<ul>
+<li>[D244578A]Video Game High School (VGHS) - Ep. 1[720p].mp4</li>
+<li>[C345E76F]Video Game High School (VGHS) - Ep. 2[720p].mp4</li>
+<li>[345A6E73]Video Game High School (VGHS) - Ep. 3[720p].mp4</li>
+<li>
+<code>[DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4</code> <img src="https://github.com/guillermijas/uRenamer/blob/master/uRenamer/img/x.png" alt="borrar" title="X">
+</li>
+<li>[1267AC32]Video Game High School (VGHS) - Ep. 5[720p].mp4</li>
+<li>[34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4</li>
+<li>[A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4</li>
+</ul>
+
+<p>/----------------------------------------------------------/</p>
+
+<ul>
+<li>VGHS T1 - 01.mp4</li>
+<li>VGHS T1 - 02.mp4</li>
+<li>VGHS T1 - 03.mp4</li>
+<li>VGHS T1 - 04.mp4</li>
+<li>VGHS T1 - 05.mp4</li>
+<li>VGHS T1 - 06.mp4</li>
+<li>[DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4</li>
+</ul>
+
+<hr>
+
+<p>Carpeta: D:\Videos\VGHS T1
+Nuevo Nombre: </p>
+
+<ul>
+<li>[D244578A]Video Game High School (VGHS) - Ep. 1[720p].mp4</li>
+<li>
+<code>[C345E76F]Video Game High School (VGHS) - Ep. 2[720p].mp4</code> <img src="https://github.com/guillermijas/uRenamer/blob/master/uRenamer/img/f%20arriba.png" alt="borrar" title="^">
+</li>
+<li>[345A6E73]Video Game High School (VGHS) - Ep. 3[720p].mp4</li>
+<li>[DBB37656]Video Game High School (VGHS) - Ep. 4[720p].mp4</li>
+<li>[1267AC32]Video Game High School (VGHS) - Ep. 5[720p].mp4</li>
+<li>
+<code>[34ABB341]Video Game High School (VGHS) - Ep. 6[720p].mp4</code> <img src="https://github.com/guillermijas/uRenamer/blob/master/uRenamer/img/f%20abajo.png" alt="borrar" title="v">
+</li>
+<li>[A987DCFE]Video Game High School (VGHS) - Ep. 7[720p].mp4</li>
+</ul>
+
+<p>/----------------------------------------------------------/</p>
+
+<ul>
+<li>VGHS T1 - 01.mp4 (antes 2)</li>
+<li>VGHS T1 - 02.mp4 (antes 1)</li>
+<li>VGHS T1 - 03.mp4</li>
+<li>VGHS T1 - 04.mp4</li>
+<li>VGHS T1 - 05.mp4</li>
+<li>VGHS T1 - 06.mp4 (antes 7)</li>
+<li>VGHS T1 - 07.mp4 (antes 6)</li>
+</ul>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/guillermijas/uRenamer">uRenamer</a> is maintained by <a href="https://github.com/guillermijas">guillermijas</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
