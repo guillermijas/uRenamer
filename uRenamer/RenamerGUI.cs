@@ -187,7 +187,7 @@ namespace WindowsFormsApplication2
 }
 
 
-
+// Gracias, stackoverflow
 public static class FolderBrowserLauncher
 {
     /// <summary>
